@@ -92,7 +92,7 @@ Extra:
 <input disabled checked type="checkbox"> should not have bug that broke the whole software reported in GitHub issues  
 <input disabled checked type="checkbox"> open source  
 
-* No idea whether it hates react-router.
+* No idea why it hates react-router.
 * Has some real problems with its internal styling solution which mandated a pretty extensive overhaul, but there's no idea currently when that will be done, or how much work it will be to port to it.
 * Sort of seems to allows controls (menu etc) in tables, but not natively it seems; an [external
   component](https://github.com/andela-cdaniel/mui-data-table) seems to do it, or otherwise a bunch of [example
